@@ -1,5 +1,5 @@
-# 2a_Stop_and_Wait_Protocol
-## REG NO 212225230116
+# 2a Stop and Wait Protocol
+## REG NO : 212225230116
 ## NAME : JEDIDIAH M D
 ## AIM 
 To write a python program to perform stop and wait protocol
